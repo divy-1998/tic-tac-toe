@@ -32,6 +32,8 @@ Go to http://localhost:5173 to play the game!
 Attach image
 <img width="130" alt="image" src="https://github.com/user-attachments/assets/ebe15df2-3f10-423f-8158-ccff8b475790" />
 
+<img width="130" alt="Image" src="https://github.com/user-attachments/assets/ae51207b-8172-411e-bf5a-4d19d08f2d48" />
+
 
 
 
