@@ -32,4 +32,4 @@ Go to http://localhost:5173 to play the game!
 Attach image:
 ![Image](https://github.com/user-attachments/assets/4294d6a9-e6c9-472a-8aea-11da4235ed7b)
 
-
+![Image](https://github.com/user-attachments/assets/08da0f36-9c35-40b8-a7e5-63941e17b451)
