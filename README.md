@@ -30,4 +30,4 @@ Go to http://localhost:5173 to play the game!
 
 
 Attach image:
-![Image Alt](Screenshot 2023-07-31 145507.png)
+![Image Alt]()
