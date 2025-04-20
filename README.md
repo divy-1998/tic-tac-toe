@@ -30,4 +30,4 @@ Go to http://localhost:5173 to play the game!
 
 
 Attach image:
-![Image Alt](https://github.com/divy-1998/tic-tac-toe/blob/1a460de916a74b7a68622e13b4030f94f2fdf534/Screenshot%202023-07-31%20145507.png)
+![Alt text](https://github.com/divy-1998/tic-tac-toe/blob/1a460de916a74b7a68622e13b4030f94f2fdf534/Screenshot%202023-07-31%20145507.png)
