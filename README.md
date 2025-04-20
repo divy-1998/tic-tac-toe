@@ -30,6 +30,6 @@ Go to http://localhost:5173 to play the game!
 
 
 Attach image:
-
+![Image](https://github.com/user-attachments/assets/4294d6a9-e6c9-472a-8aea-11da4235ed7b)
 
 
