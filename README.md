@@ -39,6 +39,11 @@ A basic implementation of the clasic Tic-Tac-Toe game built with
     - squares: current state of the board.
     - xIsNext: tracks which player's turn it is.
 - calculateWinner() checks for a win after every move.
+# GameStart
+![](https://github.com/divy-1998/tic-tac-toe/blob/main/GameStart.png)
+
+# GameEnd
+![](https://github.com/divy-1998/tic-tac-toe/blob/main/GameEnd.png)
 
 ## Possible Improvements
 - Add a reset button
