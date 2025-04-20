@@ -32,6 +32,8 @@ Go to http://localhost:5173 to play the game!
 Project Structure
 Attach image
 
+![image alt](https://github.com/divy-1998/tic-tac-toe/blob/main/Screenshot%202025-04-20%20184124.png?raw=true)
+
 How it Works
 - The board is a 3x3 grid of <Square /> components.
 - State is managed using React's useState:
