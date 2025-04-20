@@ -33,3 +33,6 @@ Attach image:
 ![Image](https://github.com/user-attachments/assets/4294d6a9-e6c9-472a-8aea-11da4235ed7b)
 
 ![Image](https://github.com/user-attachments/assets/08da0f36-9c35-40b8-a7e5-63941e17b451)
+
+
+![Image Alt](https://github.com/divy-1998/tic-tac-toe/blob/a1455eff434d87d34c9db6f9221ca65c8ee33226/Screenshot%202023-07-31%20145507.png)
